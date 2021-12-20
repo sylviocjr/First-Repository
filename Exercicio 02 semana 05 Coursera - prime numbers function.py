@@ -6,7 +6,7 @@
 ### Palavras-chave: Números primos; funções; funções em Python ###
 ### Este programa calcula e retorna o maior número primo, menor ou igual a um dado número informado pelo usuário ###
 
-### Sylvio Carneiro Junior - sylviocr.dev@gmail.com - Santa Catarina, Brazil ###
+### Sylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil ###
 
 def primo(a):   ### Verifica se o parâmetro passado é primo ###
     divisor = 2
