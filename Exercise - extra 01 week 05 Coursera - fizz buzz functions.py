@@ -1,12 +1,12 @@
-### Dec. 19, 2021 ###
-### Exercise for Coursera week 5 ###
-### Key words: division; divisor; divisibility; remainder; functions; Python functions ###
-### This program shows if a given number is either divisible by 3 or 5, or if it's divisible for both 3 and 5 ###
+### Dec. 19, 2021. ###
+### Exercise for Coursera week 5. ###
+### Key words: division; divisor; divisibility; remainder; functions; Python functions. ###
+### This program shows if a given number is either divisible by 3 or 5, or if it's divisible for both 3 and 5. ###
 
-### Palavras-chave: divisão; divisor; divisibilidade; resto de uma divisão; funções; funções em Python ###
-### Este programa exibe se um dado número é divisível por 3 ou por 5, ou se é ao mesmo tempo divisível por 3 e 5 ###
+### Palavras-chave: divisão; divisor; divisibilidade; resto de uma divisão; funções; funções em Python. ###
+### Este programa exibe se um dado número é divisível por 3 ou por 5, ou se é ao mesmo tempo divisível por 3 e 5. ###
 
-### Sylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil ###
+### Sylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil. ###
 
 def fizzbuzz(x):
     if (x % 3 == 0) and (x % 5 != 0):
