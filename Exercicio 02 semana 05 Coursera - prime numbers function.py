@@ -46,6 +46,6 @@ def main():
             print('Entrada inválida !!')
 
     print()
-    print('Sylvio Carneiro Junior - sylviocr.dev@gmail.com - Santa Catarina, Brazil')
+    print('Sylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil')
 
 main()
