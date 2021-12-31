@@ -1,8 +1,8 @@
 ### Dec. 30, 2021 - Approaching New Year's Day !!! ###
-### This scripts aims to read 10 earned grades of a student and, at the end, calculate the Grade Point Average for this student 
+### This script aims to read 10 earned grades of a student and, at the end, calculate the Grade Point Average for this student 
 ### In Brazil, the usual form of GPA is based on a scale ranging from 0.0, which means 0%, up to 10.0, which in turn represents 100%
 ### of the objectives expected from a student during a certain evaluation. Usually, a GPA equal or greater than 7.0 (70%)
-### is a good mark and enables the student to go ahead through the next levels of his/hers education. 
+### is a good mark and enables the student to go ahead through the next levels of his/her education. 
 
 ### The idea for this program can be found at page 10 of the syllabus "Algoritmo - 4ª etapa" edited by Uniasselvi.
 
