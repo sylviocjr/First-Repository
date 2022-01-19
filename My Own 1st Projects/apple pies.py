@@ -30,17 +30,18 @@ import random # Fundamental !!!
 
 def returns_demand(x):
     if x == 1:
-        return 40
+        demand = 40
     elif x == 2:
-        return 50
+        demand = 50
     elif x == 3:
-        return 60
+        demand = 60
     elif x == 4:
-        return 70
+        demand = 70
     elif x == 5:
-        return 80
+        demand = 80
     elif x == 6:
-        return 90
+        demand = 90
+    return demand
 
 
 # Rotina de validação da entrada numérica - Quantidade de simulações:
