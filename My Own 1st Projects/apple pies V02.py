@@ -83,6 +83,6 @@ while i <= times:
         profit = profit + (6*demand - 1.5*qty_pies)
     i += 1
 
-print("\nAverage Profit: ${}".format(profit/times))
+print("\nAverage Profit: ${:.2f}".format(profit/times))
 
 print("\n\n### Sylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil ###")
