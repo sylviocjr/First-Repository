@@ -1,9 +1,7 @@
-ï»¿# First-Repository
-<<<<<<< HEAD
+# First-Repository
 My 1st repository
 =======
 My 1st repository 
->>>>>>> a324ca06fb398e9f3974bbf886026efd02c54f84
 ## First repository ...
 ### First repository ...
 #### First repository ...
@@ -11,13 +9,13 @@ Email me @ sylviocjr.dev@gmail.com
 
 Sylvio C. Jr - Blumenau, SC - Brazil
 
-# Primeiro repositÃ³rio
-Meu primeiro repositÃ³rio
-## Primeiro repositÃ³rio
-### Primeiro repositÃ³rio
-#### Primeiro repositÃ³rio
-Emails para o endereÃ§o sylviocjr.dev@gmail.com
+# Primeiro repositório
+Meu primeiro repositório
+## Primeiro repositório
+### Primeiro repositório
+#### Primeiro repositório
+Emails para o endereço sylviocjr.dev@gmail.com
 
 Sylvio C. Jr - Blumenau, SC - Brasil
 
-AlteraÃ§Ã£o do Readme !!!
+Alteração do Readme !!!
