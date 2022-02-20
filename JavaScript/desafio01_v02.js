@@ -1,9 +1,8 @@
 // 07 jan. 2022 //
-// Desafio 01 do curso de javaScript da DIO/MRV //
 // Incorporado o uso de template strings, que permitem o uso de mensagens com variáveis. //
 // Adicionada rotina para o evento de a soma resultar igual a 10 ou igual a 20, casos não previstos no desafio dado. //
 
-console.log("\nPrimeiro desafio do curso de JS. Entrar com dois números e verificar sua soma, informando ainda se é menor ou maior que 10 e menor ou maior que 20.")
+console.log("\nPrimeiros códigos em JS. Entrar com dois números e verificar sua soma, informando ainda se é menor ou maior que 10 e menor ou maior que 20.")
 console.log("\nAdicionada rotina para o evento de a soma resultar igual a 10 ou igual a 20, casos não previstos no desafio dado.")
 console.log("\nSylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil.\n\n")
 

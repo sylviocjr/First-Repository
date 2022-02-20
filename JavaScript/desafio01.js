@@ -3,7 +3,7 @@
 
 // Incorporado o uso de template strings, que permitem o uso do 'alert' com variáveis. //
 
-alert("Primeiro desafio do curso de JS. Entrar com dois números e verificar sua soma, informando ainda se é menor ou maior que 10 e menor ou maior que 20.")
+alert("Primeiros códigos em JS. Entrar com dois números e verificar sua soma, informando ainda se é menor ou maior que 10 e menor ou maior que 20.")
 alert("Entrar com dois números e verificar sua soma, informando ainda se é menor ou maior que 10 e menor ou maior que 20.")
 alert("Sylvio Carneiro Junior - sylviocjr.dev@gmail.com - Santa Catarina, Brazil")
 
