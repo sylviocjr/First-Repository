@@ -1,5 +1,9 @@
 ﻿# First-Repository
+<<<<<<< HEAD
 My 1st repository
+=======
+My 1st repository 
+>>>>>>> a324ca06fb398e9f3974bbf886026efd02c54f84
 ## First repository ...
 ### First repository ...
 #### First repository ...
