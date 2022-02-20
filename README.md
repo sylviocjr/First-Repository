@@ -1,5 +1,5 @@
 ﻿# First-Repository
-My 1st repository for DIO challenge
+My 1st repository 
 ## First repository ...
 ### First repository ...
 #### First repository ...
@@ -8,7 +8,7 @@ Email me @ sylviocjr.dev@gmail.com
 Sylvio C. Jr - Blumenau, SC - Brazil
 
 # Primeiro repositório
-Meu primeiro repositório para o desafio DIO
+Meu primeiro repositório
 ## Primeiro repositório
 ### Primeiro repositório
 #### Primeiro repositório
